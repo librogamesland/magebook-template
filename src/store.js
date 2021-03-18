@@ -1,7 +1,7 @@
 import { reactive } from 'vue'
 
 const store = reactive({
-  page: 'PageBook',
+  page: 'PageHome',
   key: '1'
 })
 
